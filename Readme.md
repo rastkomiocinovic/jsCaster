@@ -2,4 +2,4 @@
 
 ![Screenshot of jsCaster](screenshot.png)
 
-jsCaster is a JavaScript demo of ray casting.The map can be easily edited using the built in map editor and the camera moved around. The scene is rendered on every movement or map update.
+jsCaster is a JavaScript demo of ray casting. The map can be easily edited using the built in map editor and the camera moved around. The scene is rendered on every movement or map update.
